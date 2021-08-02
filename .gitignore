@@ -1,0 +1,13 @@
+### Ignore all executables without extension ###
+*
+!*.*
+!*/
+
+# Executables
+*.o
+*.out
+*.exe
+
+.vscode
+
+*.txt
